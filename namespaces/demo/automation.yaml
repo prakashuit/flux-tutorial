@@ -12,9 +12,9 @@ metadata:
 spec:
   releaseName: aut01
   chart:
-    git: git@github.com:ipedrazas/flux-tutorial.git
+    git: git@github.com:prakashuit/flux-tutorial.git
     ref: master
     path: charts/automation
   values:
-    image.repository: ipedrazas/automation
-    image.tag: test-v1
+    image.repository: prakashuit/flux-demo
+    image.tag: v1
