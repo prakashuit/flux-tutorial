@@ -17,4 +17,4 @@ spec:
     path: charts/automation
   values:
     image.repository: prakashuit/flux-demo
-    image.tag: v1
+    image.tag: v2
